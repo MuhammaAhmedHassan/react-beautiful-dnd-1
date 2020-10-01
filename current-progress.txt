@@ -1,0 +1,2 @@
+// Start from lesson number 11, url is following
+https://egghead.io/lessons/react-conditionally-allow-movement-using-react-beautiful-dnd-draggable-and-droppable-props
